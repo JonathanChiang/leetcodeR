@@ -1,3 +1,3 @@
-#### Rules of Organization: 
+## Rules of Organization: 
 
-# each folder links to leetcode problem 
+##### each folder links to leetcode problem 
